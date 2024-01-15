@@ -1,13 +1,13 @@
 # Kindler
 ## Overview
-Kindler includes a utility to download a Kindle library from Amazon's cloud reader (/public/util/cnosle_download.js) and a viewer to dispaly the JSON download.
+Kindler includes a utility to download a Kindle library from Amazon's cloud reader (/public/util/console_download.js) and a viewer to dispaly the JSON download.
 
 ## Download a Kindle library
 Open the [Cloud Kindle Viewer](https://read.amazon.com)
 
 Open the browser console (F12|ctl-shift-I|More Tools -> Developer tools). Go to Console tab.
 
-Paste the snippit from /public/util/cnosle_download.js into the console; hit return. (For a CSV file change the output_format variable.)
+Paste the snippit from /public/util/console_download.js into the console; hit return. (For a CSV file change the output_format variable.)
 
 The page will redirect to a page containing the data. Select all, copy, and paste into a new .json file.
 
