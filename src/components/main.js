@@ -38,9 +38,10 @@ const formatBooks = (unsorted, sortType) => {
     {books.forEach(element => {
       if (getFirstLetter(element).toUpperCase() !== firstLetter) {
         firstLetter = getFirstLetter(element).toUpperCase();
-        lines.push(<h2 key={'_letter_' + firstLetter} style={{backgroundColor: '#AAA', color: 'white'}}>
+        lines.push(
+        <h1 key={'_letter_' + firstLetter} style={{backgroundColor: '#AAA', color: 'white', marginTop: '45px'}}>
           {firstLetter}
-        </h2>);
+        </h1>);
       }
       lines.push(formatBook(element));
     })};
