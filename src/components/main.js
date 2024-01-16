@@ -42,7 +42,7 @@ const formatBooks = (books, sortType) => {
       if (getFirstLetter(element).toUpperCase() !== firstLetter) {
         firstLetter = getFirstLetter(element).toUpperCase();
         lines.push(
-        <h1 key={'_letter_' + i} style={{backgroundColor: '#AAA', color: 'white', marginTop: '45px'}}>
+        <h1 key={'_letter_' + i} style={{backgroundColor: '#7393B3', color: 'white', marginTop: '45px'}}>
           {firstLetter}
         </h1>);
       }

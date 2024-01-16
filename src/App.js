@@ -9,6 +9,9 @@ function App() {
         <h1>My Books</h1>
       </header>
       <MainScreen />
+      <footer className="App-footer">
+        <a target="_blank" href="https://icons8.com">favicon by Icons8</a>
+      </footer>  
     </div>
   );
 }
