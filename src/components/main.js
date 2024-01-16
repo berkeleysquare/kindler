@@ -1,10 +1,11 @@
 import React, {useEffect, useState} from "react";
 import { Tab } from '@mui/base/Tab';
 import { TabsList } from '@mui/base/TabsList';
-import { TabPanel } from '@mui/base/TabPanel';
 import { Tabs } from '@mui/base/Tabs';
 
+import SearchField from './search_field';
 import {fetchBooks} from './actions';
+
 const resource = 'books_all';
 const SORT_DATE = "Date";
 const SORT_TITLE = "Title";
@@ -18,28 +19,30 @@ const sortBooks = (unsorted, type) => {
     case SORT_TITLE:
       return unsorted.sort((a, b) => a.title.localeCompare(b.title));
     case SORT_AUTHOR:
-      return unsorted.sort((a, b) => (a.authors[0] || '').localeCompare(b.authors[0]))
+      return unsorted.sort((a, b) => extractAuthor(a).localeCompare(extractAuthor(b)));
     default:
       return unsorted;
   }
 }
 
+const extractTitle = b => (b.title || '').trim();
+const extractAuthor = b => (b.author || '').trim();
+
 const formatBook = b => <p key={'_book' + b.index}>
-  <span style={{fontWeight: 600}}>{b.title + '  '}</span>
-  <span style={{fontStyle: 'italic'}}>{(b.authors || [])[0]}</span>
+  <span style={{fontWeight: 600}}>{extractTitle(b) + '  '}</span>
+  <span style={{fontStyle: 'italic'}}>{extractAuthor(b)}</span>
 </p>
 
-const formatBooks = (unsorted, sortType) => {
-  const books = sortBooks(unsorted, sortType);
-  const getFirstLetter = sortType === SORT_DATE ? () => '' : 
-    (sortType === SORT_TITLE ? (b) => (b.title[0] || '') : (b) => (b.authors[0] || '')[0] || '');
+const formatBooks = (books, sortType) => {
   const lines = [];
+  const getFirstLetter = sortType === SORT_DATE ? () => '' :
+    (sortType === SORT_TITLE ? b => (extractTitle(b) + ' ')[0] : b => (extractAuthor(b) + ' ')[0]);
   let firstLetter = '';
-    {books.forEach(element => {
+    {books.forEach((element, i) => {
       if (getFirstLetter(element).toUpperCase() !== firstLetter) {
         firstLetter = getFirstLetter(element).toUpperCase();
         lines.push(
-        <h1 key={'_letter_' + firstLetter} style={{backgroundColor: '#AAA', color: 'white', marginTop: '45px'}}>
+        <h1 key={'_letter_' + i} style={{backgroundColor: '#AAA', color: 'white', marginTop: '45px'}}>
           {firstLetter}
         </h1>);
       }
@@ -53,10 +56,18 @@ function Main() {
 
     const [books, setBooks] = useState([]);
     const [sortType, setSortType] = useState(SORT_DATE);
+    const [searchTitleText, setSearchTitleText] = useState('');
+    const [searchAuthorText, setSearchAuthorText] = useState('');
 
     useEffect(() => {
       setBooks(fetchBooks(resource, setBooks));
     }, []);
+
+    const filteredBooks = (books || [])
+      .filter(b => extractAuthor(b).toLowerCase().includes(searchAuthorText.toLowerCase()))
+      .filter(b => extractTitle(b).toLowerCase().includes(searchTitleText.toLowerCase()));
+
+    const sorted = sortBooks(filteredBooks, sortType);  
 
     return (<div>
       <div>
@@ -67,10 +78,24 @@ function Main() {
               <TabsList>
               {sortTypes.map(g => (<Tab key={'_button_' + g} value={g}>{' Sort by ' + g}</Tab>))}
               </TabsList>
-              {sortTypes.map(g => (<TabPanel key={'_panel_' + g} value={g}><h2>{g}</h2></TabPanel>))}
           </Tabs>
       </div>
-      {formatBooks(books || [], sortType)}
+      <table width="100%"><tbody><tr>
+        <td>
+          <div style={{width: '300px', marginLeft: 'auto', marginRight: 'auto'}}>
+            <SearchField label="Title" setSearch={setSearchTitleText} searchText={searchTitleText}/>
+          </div>
+        </td>
+        <td>
+          Sort by {sortType}
+        </td>
+        <td>
+          <div style={{width: '300px', marginLeft: 'auto', marginRight: 'auto'}}>
+            <SearchField label="Author" setSearch={setSearchAuthorText} searchText={searchAuthorText}/>
+          </div>
+        </td>
+        </tr></tbody></table>
+      {formatBooks(sorted, sortType)}
     </div>
     );
 }

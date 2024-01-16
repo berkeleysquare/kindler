@@ -8,7 +8,7 @@ export const DATA_ENDPOINT = '/books/';
 
 const indexItems = (items) => {
   return (items || []).map((item, index) => {
-    return {...item, index};
+    return {...item, index, author: (item.authors || [])[0] || '' };
   });
 };
 
