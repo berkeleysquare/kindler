@@ -14,10 +14,16 @@ The page will redirect to a page containing the data. Select all, copy, and past
 Copy the json file to /public/books/books_all.json
 
 ## Open the viewer
-Either build the App and deploy on a web server, or:
+### dev server
 Install yarn or npm. Run npm start or yarn start.
 
 Open http://localhost:3000
+### build
+Install yarn or npm. Run npm run build or yarn build.
+### deploy
+Copy build or release to a web server. Or run python server (python3 -m http.server)
+
+Open http://localhost:8000
 
 ## Credits and More
 
