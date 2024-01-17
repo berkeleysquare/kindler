@@ -35,3 +35,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 The downloader is based on a Gist from @usayamadx:
 
 https://gist.github.com/usayamadx/9c638d9b70bc714d6dd6043fcd54085f 
+
+# DEMO
+https://jkboxed.com/kindler/
+
