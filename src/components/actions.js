@@ -4,7 +4,7 @@
 const method = 'GET';
 const suffix = '.json';
 // export const KINDLE_CLOUD_READER_URL = 'https://read.amazon.com/kindle-library/search?query=&libraryType=BOOKS&sortType=acquisition_desc';
-export const DATA_ENDPOINT = '/books/';
+export const DATA_ENDPOINT = './books/';
 
 const indexItems = (items) => {
   return (items || []).map((item, index) => {
