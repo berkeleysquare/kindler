@@ -1,4 +1,3 @@
-
 //   Uses REST-style actions and reducer but does simple static http GGTs
 // S3 static gets are http
 const method = 'GET';
