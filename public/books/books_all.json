@@ -1,5 +1,163 @@
 {
+  "version": "1.1",
+  "title": "jk & Riza's Books",
   "itemsList": [
+    {
+      "asin": "B0D36VH8ST",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0D36VH8ST",
+      "productUrl": "https://m.media-amazon.com/images/I/41HphDNfvWL._SY400_.jpg",
+      "title": "Mathematica: A Secret World of Intuition and Curiosity",
+      "percentageRead": 0,
+      "authors": [
+        "Bessis, David:"
+      ],
+      "resourceType": "EBOOK_SAMPLE",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0F3FS5L7F",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0F3FS5L7F",
+      "productUrl": "https://m.media-amazon.com/images/I/51HoLOQBALL._SY400_.jpg",
+      "title": "Shadow Ticket",
+      "percentageRead": 0,
+      "authors": [
+        "Pynchon, Thomas:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0F1LFRS1F",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0F1LFRS1F",
+      "productUrl": "https://m.media-amazon.com/images/I/51bZTe5eP+L._SY400_.jpg",
+      "title": "False Dawn: The New Deal and the Promise of Recovery, 1933–1947",
+      "percentageRead": 0,
+      "authors": [
+        "Selgin, George:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0C7RK88QR",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0C7RK88QR",
+      "productUrl": "https://m.media-amazon.com/images/I/41yzNQrvqML._SY400_.jpg",
+      "title": "The World That Wasn't: Henry Wallace and the Fate of the American Century",
+      "percentageRead": 0,
+      "authors": [
+        "Steil, Benn:"
+      ],
+      "resourceType": "EBOOK_SAMPLE",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B01FPH2N0C",
+      "webReaderUrl": "https://read.amazon.com/?asin=B01FPH2N0C",
+      "productUrl": "https://m.media-amazon.com/images/I/51WuqYyKYjL._SY400_.jpg",
+      "title": "Lincoln in the Bardo: A Novel",
+      "percentageRead": 0,
+      "authors": [
+        "Saunders, George:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B079L54CG4",
+      "webReaderUrl": "https://read.amazon.com/?asin=B079L54CG4",
+      "productUrl": "https://m.media-amazon.com/images/I/41o1ThBXaQL._SY400_.jpg",
+      "title": "The League: How Five Rivals Created the NFL and Launched a Sports Empire",
+      "percentageRead": 0,
+      "authors": [
+        "Eisenberg, John:"
+      ],
+      "resourceType": "EBOOK_SAMPLE",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0DV6FDFT6",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0DV6FDFT6",
+      "productUrl": "https://m.media-amazon.com/images/I/51DdGsAJgbL._SY400_.jpg",
+      "title": "When Everyone Knows That Everyone Knows . . .: Common Knowledge and the Mysteries of Money, Power, and Everyday Life",
+      "percentageRead": 0,
+      "authors": [
+        "Pinker, Steven:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0CFQ45QDF",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0CFQ45QDF",
+      "productUrl": "https://m.media-amazon.com/images/I/51gBaVpJ0eL._SY400_.jpg",
+      "title": "Mrs. Dalloway: The Original 1925 Unabridged and Complete Edition (Virginia Woolf Classics)",
+      "percentageRead": 0,
+      "authors": [
+        "Woolf, Virginia:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0CPXV7Q1C",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0CPXV7Q1C",
+      "productUrl": "https://m.media-amazon.com/images/I/41W+XnLp0EL._SY400_.jpg",
+      "title": "Pronoun Trouble: The Story of Us in Seven Little Words",
+      "percentageRead": 0,
+      "authors": [
+        "McWhorter, John:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0B72J41TQ",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0B72J41TQ",
+      "productUrl": "https://m.media-amazon.com/images/I/41Gdudfk56L._SY400_.jpg",
+      "title": "Muppets in Moscow: The Unexpected Crazy True Story of Making Sesame Street in Russia",
+      "percentageRead": 0,
+      "authors": [
+        "Rogoff, Natasha Lance:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0046A9J8Y",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0046A9J8Y",
+      "productUrl": "https://m.media-amazon.com/images/I/51KDH+K5G3L._SY400_.jpg",
+      "title": "A Bend in the River (Vintage International)",
+      "percentageRead": 0,
+      "authors": [
+        "Naipaul, V. S.:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B00A58VDO4",
+      "webReaderUrl": "https://read.amazon.com/?asin=B00A58VDO4",
+      "productUrl": "https://m.media-amazon.com/images/I/415wkPAg4GL._SY400_.jpg",
+      "title": "Seiobo There Below (Ndp; 1280)",
+      "percentageRead": 0,
+      "authors": [
+        "Krasznahorkai, László:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
     {
       "asin": "B0B4F1MP7Y",
       "webReaderUrl": "https://read.amazon.com/?asin=B0B4F1MP7Y",
@@ -36,32 +194,6 @@
         "Castor, Helen:"
       ],
       "resourceType": "EBOOK_SAMPLE",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0B72J41TQ",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0B72J41TQ",
-      "productUrl": "https://m.media-amazon.com/images/I/41Gdudfk56L._SY400_.jpg",
-      "title": "Muppets in Moscow: The Unexpected Crazy True Story of Making Sesame Street in Russia",
-      "percentageRead": 0,
-      "authors": [
-        "Rogoff, Natasha Lance:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00A58VDO4",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00A58VDO4",
-      "productUrl": "https://m.media-amazon.com/images/I/415wkPAg4GL._SY400_.jpg",
-      "title": "Seiobo There Below (Ndp; 1280)",
-      "percentageRead": 0,
-      "authors": [
-        "Krasznahorkai, László:"
-      ],
-      "resourceType": "EBOOK",
       "originType": "PURCHASE",
       "mangaOrComicAsin": false
     },
@@ -112,19 +244,6 @@
       "percentageRead": 0,
       "authors": [
         "Gioia, Dana:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0046A9J8Y",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0046A9J8Y",
-      "productUrl": "https://m.media-amazon.com/images/I/51KDH+K5G3L._SY400_.jpg",
-      "title": "A Bend in the River (Vintage International)",
-      "percentageRead": 0,
-      "authors": [
-        "Naipaul, V. S.:"
       ],
       "resourceType": "EBOOK",
       "originType": "PURCHASE",
@@ -534,117 +653,13 @@
       "mangaOrComicAsin": false
     },
     {
-      "asin": "B000OCXIJE",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000OCXIJE",
-      "productUrl": "https://m.media-amazon.com/images/I/41BR1dcWkGL._SY400_.jpg",
-      "title": "The Paid Companion",
+      "asin": "B0C7RLJSQD",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0C7RLJSQD",
+      "productUrl": "https://m.media-amazon.com/images/I/41Ay8x7io0L._SY400_.jpg",
+      "title": "Abundance",
       "percentageRead": 0,
       "authors": [
-        "Quick, Amanda:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00DB2GL2A",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00DB2GL2A",
-      "productUrl": "https://m.media-amazon.com/images/I/41AKUiXp9cL._SY400_.jpg",
-      "title": "The Daily Ukulele Songbook: 365 Songs for Better Living (Jumpin' Jim's Ukulele Songbooks)",
-      "percentageRead": 0,
-      "authors": [
-        "Jim Beloff, Liz Beloff:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0BCGVCHQF",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0BCGVCHQF",
-      "productUrl": "https://m.media-amazon.com/images/I/51F3QDOEoGL._SY400_.jpg",
-      "title": "The Complete Novels of Jane Austen (Leather-bound Classics)",
-      "percentageRead": 0,
-      "authors": [
-        "Jane Austen:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B08F3P1C11",
-      "webReaderUrl": "https://read.amazon.com/?asin=B08F3P1C11",
-      "productUrl": "https://m.media-amazon.com/images/I/518vvvT0O4L._SY400_.jpg",
-      "title": "Atlas Shrugged",
-      "percentageRead": 0,
-      "authors": [
-        "Ayn Rand:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B07CCHKXMD",
-      "webReaderUrl": "https://read.amazon.com/?asin=B07CCHKXMD",
-      "productUrl": "https://m.media-amazon.com/images/I/515+Kuk-NXL._SY400_.jpg",
-      "title": "Short Stories in Esperanto",
-      "percentageRead": 0,
-      "authors": [
-        "Smith, Myrtis:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00HBQ2D8S",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00HBQ2D8S",
-      "productUrl": "https://m.media-amazon.com/images/I/51iQwpLCljL._SY400_.jpg",
-      "title": "The Cure at Troy: A Version of Sophocles' Philoctetes",
-      "percentageRead": 0,
-      "authors": [
-        "Heaney, Seamus:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B08WJVC8Z9",
-      "webReaderUrl": "https://read.amazon.com/?asin=B08WJVC8Z9",
-      "productUrl": "https://m.media-amazon.com/images/I/51Sl59sJsFL._SY400_.jpg",
-      "title": "Music Is History",
-      "percentageRead": 0,
-      "authors": [
-        "Ahmir \"Questlove\" Thompson:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B000SMQGKS",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000SMQGKS",
-      "productUrl": "https://m.media-amazon.com/images/I/51g5wndUmeL._SY400_.jpg",
-      "title": "The Forest House (Avalon Book 2)",
-      "percentageRead": 0,
-      "authors": [
-        "Bradley, Marion Zimmer:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0BWL999D3",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0BWL999D3",
-      "productUrl": "https://m.media-amazon.com/images/I/41uoF0xBGML._SY400_.jpg",
-      "title": "The Iliad",
-      "percentageRead": 0,
-      "authors": [
-        "Homer:"
+        "Klein, Ezra:Thompson, Derek:"
       ],
       "resourceType": "EBOOK",
       "originType": "PURCHASE",
@@ -783,7 +798,7 @@
     {
       "asin": "B0CBNX1BFL",
       "webReaderUrl": "https://read.amazon.com/?asin=B0CBNX1BFL",
-      "productUrl": "https://m.media-amazon.com/images/I/51tE+DLOZwL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51yuF5W7D8L._SY400_.jpg",
       "title": "Hardy Women: Mother, Sisters, Wives, Muses",
       "percentageRead": 0,
       "authors": [
@@ -900,7 +915,7 @@
     {
       "asin": "B0CQSC9J12",
       "webReaderUrl": "https://read.amazon.com/?asin=B0CQSC9J12",
-      "productUrl": "https://m.media-amazon.com/images/I/41N2eGBLaKL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41wq48qXptL._SY400_.jpg",
       "title": "On the Edge: The Art of Risking Everything",
       "percentageRead": 0,
       "authors": [
@@ -1251,7 +1266,7 @@
     {
       "asin": "B0CZ4P93G3",
       "webReaderUrl": "https://read.amazon.com/?asin=B0CZ4P93G3",
-      "productUrl": "https://m.media-amazon.com/images/I/41XWUjt7gfL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41m6YLLbEaL._SY400_.jpg",
       "title": "The Fleischer Menace: A fast moving crime thriller that will keep you guessing until the very last page (The Chad McCabe series)",
       "percentageRead": 0,
       "authors": [
@@ -1316,7 +1331,7 @@
     {
       "asin": "B07D23CFGR",
       "webReaderUrl": "https://read.amazon.com/?asin=B07D23CFGR",
-      "productUrl": "https://m.media-amazon.com/images/I/51804brpYeL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51b4CfdTSDL._SY400_.jpg",
       "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
       "percentageRead": 0,
       "authors": [
@@ -2252,7 +2267,7 @@
     {
       "asin": "B01DG1769W",
       "webReaderUrl": "https://read.amazon.com/?asin=B01DG1769W",
-      "productUrl": "https://m.media-amazon.com/images/I/51naukfgQ5L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51mslFo8M5L._SY400_.jpg",
       "title": "Under a Flaming Sky: The Great Hinckley Firestorm Of 1894",
       "percentageRead": 0,
       "authors": [
@@ -2512,7 +2527,7 @@
     {
       "asin": "B00HBQ2D8S",
       "webReaderUrl": "https://read.amazon.com/?asin=B00HBQ2D8S",
-      "productUrl": "https://m.media-amazon.com/images/I/51iQwpLCljL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41nMnQZgNiL._SY400_.jpg",
       "title": "The Cure at Troy: A Version of Sophocles' Philoctetes",
       "percentageRead": 0,
       "authors": [
@@ -2668,7 +2683,7 @@
     {
       "asin": "B01AVTU6TE",
       "webReaderUrl": "https://read.amazon.com/?asin=B01AVTU6TE",
-      "productUrl": "https://m.media-amazon.com/images/I/51awPIZFByL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41DTVeYVF5L._SY400_.jpg",
       "title": "This Side of Paradise",
       "percentageRead": 0,
       "authors": [
@@ -2850,7 +2865,7 @@
     {
       "asin": "B00HE2JK5S",
       "webReaderUrl": "https://read.amazon.com/?asin=B00HE2JK5S",
-      "productUrl": "https://m.media-amazon.com/images/I/41z2W3Jpg7L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41A2+OTTAJL._SY400_.jpg",
       "title": "Nova",
       "percentageRead": 0,
       "authors": [
@@ -3123,7 +3138,7 @@
     {
       "asin": "B081TM29QW",
       "webReaderUrl": "https://read.amazon.com/?asin=B081TM29QW",
-      "productUrl": "https://m.media-amazon.com/images/I/515dPHuGZyL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51mNS5MqSGL._SY400_.jpg",
       "title": "The Fable of the Bees; Or, Private Vices, Public Benefits",
       "percentageRead": 0,
       "authors": [
@@ -3253,7 +3268,7 @@
     {
       "asin": "B00DZEJRQQ",
       "webReaderUrl": "https://read.amazon.com/?asin=B00DZEJRQQ",
-      "productUrl": "https://m.media-amazon.com/images/I/51oBJNvf95L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51Fe6qXBVNL._SY400_.jpg",
       "title": "The Chaneysville Incident: A Novel",
       "percentageRead": 0,
       "authors": [
@@ -4124,7 +4139,7 @@
     {
       "asin": "B004ZM10OE",
       "webReaderUrl": "https://read.amazon.com/?asin=B004ZM10OE",
-      "productUrl": "https://m.media-amazon.com/images/I/41DZOKR27iS._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/31B53Xm9+WL._SY400_.jpg",
       "title": "The Brothers Karamazov: A Novel in Four Parts With Epilogue",
       "percentageRead": 0,
       "authors": [
@@ -5177,7 +5192,7 @@
     {
       "asin": "B0049B1VOU",
       "webReaderUrl": "https://read.amazon.com/?asin=B0049B1VOU",
-      "productUrl": "https://m.media-amazon.com/images/I/51uWyGq4LxL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41OSl1yGOwL._SY400_.jpg",
       "title": "The Language Instinct: How The Mind Creates Language (P.S.)",
       "percentageRead": 0,
       "authors": [
@@ -6711,7 +6726,7 @@
     {
       "asin": "B00O79WFOO",
       "webReaderUrl": "https://read.amazon.com/?asin=B00O79WFOO",
-      "productUrl": "https://m.media-amazon.com/images/I/41Ht05LThYL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41XFtwv7zML._SY400_.jpg",
       "title": "The End of Doom: Environmental Renewal in the Twenty-first Century",
       "percentageRead": 0,
       "authors": [
@@ -13094,7 +13109,7 @@
     {
       "asin": "B00COWLXUS",
       "webReaderUrl": "https://read.amazon.com/?asin=B00COWLXUS",
-      "productUrl": "https://m.media-amazon.com/images/I/516tH44VLhL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51KqxQHahgL._SY400_.jpg",
       "title": "Encounter with Tiber",
       "percentageRead": 0,
       "authors": [
@@ -13640,7 +13655,7 @@
     {
       "asin": "B006PJJ3NU",
       "webReaderUrl": "https://read.amazon.com/?asin=B006PJJ3NU",
-      "productUrl": "https://m.media-amazon.com/images/I/51FtLRav8xL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51YMYR+ogaL._SY400_.jpg",
       "title": "Righteous Lies: Book 1: Dancing Moon Ranch family saga (clean and wholesome) (Dancing Moon Ranch Series)",
       "percentageRead": 0,
       "authors": [
@@ -15772,7 +15787,7 @@
     {
       "asin": "B007X3DQGM",
       "webReaderUrl": "https://read.amazon.com/?asin=B007X3DQGM",
-      "productUrl": "https://m.media-amazon.com/images/I/61BR-n2PQCL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/61mMhwZyj5L._SY400_.jpg",
       "title": "Beyond the Square: Crochet Motifs: 144 Circles, Hexagons, Triangles, Squares, and Other Unexpected Shapes",
       "percentageRead": 0,
       "authors": [
@@ -16745,7 +16760,7 @@
     {
       "asin": "B005CRY7RI",
       "webReaderUrl": "https://read.amazon.com/?asin=B005CRY7RI",
-      "productUrl": "https://m.media-amazon.com/images/I/51BYqc3bZRL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51Df34C4b3L._SY400_.jpg",
       "title": "A Texas Christmas",
       "percentageRead": 0,
       "authors": [
@@ -19014,7 +19029,7 @@
     {
       "asin": "B000FCK5YE",
       "webReaderUrl": "https://read.amazon.com/?asin=B000FCK5YE",
-      "productUrl": "https://m.media-amazon.com/images/I/510h8323fcL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41uyoAxneCL._SY400_.jpg",
       "title": "1776",
       "percentageRead": 0,
       "authors": [
