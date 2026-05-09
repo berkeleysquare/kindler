@@ -1,7 +1,57 @@
 {
-  "version": "1.1",
-  "title": "jk & Riza's Books",
   "itemsList": [
+    {
+      "asin": "B07CMJ5N2R",
+      "webReaderUrl": "https://read.amazon.com/?asin=B07CMJ5N2R",
+      "productUrl": "https://m.media-amazon.com/images/I/51fuRCw3mpL._SY400_.jpg",
+      "title": "The Power and the Glory",
+      "percentageRead": 0,
+      "authors": [
+        "Greene, Graham:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0BHL2SCGQ",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0BHL2SCGQ",
+      "productUrl": "https://m.media-amazon.com/images/I/51X5JIztK2L._SY400_.jpg",
+      "title": "Crook Manifesto: A Novel (The Harlem Trilogy Book 2)",
+      "percentageRead": 0,
+      "authors": [
+        "Whitehead, Colson:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0D1QFBGQD",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0D1QFBGQD",
+      "productUrl": "https://m.media-amazon.com/images/I/41nWT0ukeZL._SY400_.jpg",
+      "title": "The Thinking Machine: Jensen Huang, Nvidia, and the World's Most Coveted Microchip",
+      "percentageRead": 0,
+      "authors": [
+        "Witt, Stephen:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B07Z45QM3K",
+      "webReaderUrl": "https://read.amazon.com/?asin=B07Z45QM3K",
+      "productUrl": "https://m.media-amazon.com/images/I/41MmpnsCcVL._SY400_.jpg",
+      "title": "The Old Man and the Sea: The Hemingway Library Edition",
+      "percentageRead": 0,
+      "authors": [
+        "Hemingway, Ernest:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
     {
       "asin": "B0D36VH8ST",
       "webReaderUrl": "https://read.amazon.com/?asin=B0D36VH8ST",
@@ -11,6 +61,136 @@
       "authors": [
         "Bessis, David:"
       ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B00LUZNVQO",
+      "webReaderUrl": "https://read.amazon.com/?asin=B00LUZNVQO",
+      "productUrl": "https://m.media-amazon.com/images/I/51srgKcJ9HL._SY400_.jpg",
+      "title": "A Morbid Taste for Bones (The Chronicles of Brother Cadfael Book 1)",
+      "percentageRead": 0,
+      "authors": [
+        "Peters, Ellis:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B01158JTZW",
+      "webReaderUrl": "https://read.amazon.com/?asin=B01158JTZW",
+      "productUrl": "https://m.media-amazon.com/images/I/41llyfFfbiL._SY400_.jpg",
+      "title": "Four Letters of Love: A Novel",
+      "percentageRead": 0,
+      "authors": [
+        "Williams, Niall:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0GFP6TCRB",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0GFP6TCRB",
+      "productUrl": "https://m.media-amazon.com/images/I/51vwBFiboNL._SY400_.jpg",
+      "title": "SuperCreativity: Accelerating Innovation in the Age of Artificial Intelligence (SuperCreativity Book Series)",
+      "percentageRead": 0,
+      "authors": [
+        "Taylor, James:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0CFPXCB28",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0CFPXCB28",
+      "productUrl": "https://m.media-amazon.com/images/I/41NBiBUj3rL._SY400_.jpg",
+      "title": "Death Comes for the Archbishop: The Original 1927 Unabridged and Complete Edition (Willa Cather Classics)",
+      "percentageRead": 0,
+      "authors": [
+        "Cather, Willa:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0CV22P3TG",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0CV22P3TG",
+      "productUrl": "https://m.media-amazon.com/images/I/51pFXf3gMkL._SY400_.jpg",
+      "title": "The Eagle and the Hart: The Tragedy of Richard II and Henry IV",
+      "percentageRead": 0,
+      "authors": [
+        "Castor, Helen:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B00507PR10",
+      "webReaderUrl": "https://read.amazon.com/?asin=B00507PR10",
+      "productUrl": "https://m.media-amazon.com/images/I/51OqNzmNtqL._SY400_.jpg",
+      "title": "The Faerie Queene",
+      "percentageRead": 0,
+      "authors": [
+        "Spenser, Edmund:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B073T1M9TR",
+      "webReaderUrl": "https://read.amazon.com/?asin=B073T1M9TR",
+      "productUrl": "https://m.media-amazon.com/images/I/414n0ROJA3L._SY400_.jpg",
+      "title": "Arcadia",
+      "percentageRead": 0,
+      "authors": [
+        "Stoppard, Tom:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B09HW67JVP",
+      "webReaderUrl": "https://read.amazon.com/?asin=B09HW67JVP",
+      "productUrl": "https://m.media-amazon.com/images/I/31Q3ZopaUgL._SY400_.jpg",
+      "title": "Make to Know: From Spaces of Uncertainty to Creative Discovery",
+      "percentageRead": 0,
+      "authors": [
+        "Buchman, Lorne M.:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B006L8723I",
+      "webReaderUrl": "https://read.amazon.com/?asin=B006L8723I",
+      "productUrl": "https://m.media-amazon.com/images/I/51bWklIGxjL._SY400_.jpg",
+      "title": "Out of the Silent Planet: (Space Trilogy, Book One) (The Space Trilogy 1)",
+      "percentageRead": 0,
+      "authors": [
+        "Lewis, C. S.:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B01EGQA1Z2",
+      "webReaderUrl": "https://read.amazon.com/?asin=B01EGQA1Z2",
+      "productUrl": "https://m.media-amazon.com/images/I/51lnJnMQAKL._SY400_.jpg",
+      "title": "A Culture of Growth: The Origins of the Modern Economy (Graz Schumpeter Lectures)",
+      "percentageRead": 0,
+      "authors": [
+        "Mokyr, Joel:"
+      ],
       "resourceType": "EBOOK_SAMPLE",
       "originType": "PURCHASE",
       "mangaOrComicAsin": false
@@ -18,11 +198,37 @@
     {
       "asin": "B0F3FS5L7F",
       "webReaderUrl": "https://read.amazon.com/?asin=B0F3FS5L7F",
-      "productUrl": "https://m.media-amazon.com/images/I/51HoLOQBALL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51azYHeteUL._SY400_.jpg",
       "title": "Shadow Ticket",
       "percentageRead": 0,
       "authors": [
         "Pynchon, Thomas:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B07T5Z6VZJ",
+      "webReaderUrl": "https://read.amazon.com/?asin=B07T5Z6VZJ",
+      "productUrl": "https://m.media-amazon.com/images/I/41gKYWru28L._SY400_.jpg",
+      "title": "Shakespeare in a Divided America: What His Plays Tell Us About Our Past and Future",
+      "percentageRead": 0,
+      "authors": [
+        "Shapiro, James:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B01DJZWALO",
+      "webReaderUrl": "https://read.amazon.com/?asin=B01DJZWALO",
+      "productUrl": "https://m.media-amazon.com/images/I/61xvINeUvgL._SY400_.jpg",
+      "title": "THE MASTER AND MARGARITA: 50th-Anniversary Edition (Penguin Classics Deluxe Edition)",
+      "percentageRead": 0,
+      "authors": [
+        "Bulgakov, Mikhail:"
       ],
       "resourceType": "EBOOK",
       "originType": "PURCHASE",
@@ -42,6 +248,32 @@
       "mangaOrComicAsin": false
     },
     {
+      "asin": "B00A58VDO4",
+      "webReaderUrl": "https://read.amazon.com/?asin=B00A58VDO4",
+      "productUrl": "https://m.media-amazon.com/images/I/415wkPAg4GL._SY400_.jpg",
+      "title": "Seiobo There Below (Ndp; 1280)",
+      "percentageRead": 0,
+      "authors": [
+        "Krasznahorkai, László:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0D8JLD27J",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0D8JLD27J",
+      "productUrl": "https://m.media-amazon.com/images/I/41p0maYaPoL._SY400_.jpg",
+      "title": "Learn Faster, Perform Better: A Musician's Guide to the Neuroscience of Practicing",
+      "percentageRead": 0,
+      "authors": [
+        "Gebrian, Molly:"
+      ],
+      "resourceType": "EBOOK_SAMPLE",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
       "asin": "B0C7RK88QR",
       "webReaderUrl": "https://read.amazon.com/?asin=B0C7RK88QR",
       "productUrl": "https://m.media-amazon.com/images/I/41yzNQrvqML._SY400_.jpg",
@@ -49,6 +281,19 @@
       "percentageRead": 0,
       "authors": [
         "Steil, Benn:"
+      ],
+      "resourceType": "EBOOK",
+      "originType": "PURCHASE",
+      "mangaOrComicAsin": false
+    },
+    {
+      "asin": "B0BQGD958K",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0BQGD958K",
+      "productUrl": "https://m.media-amazon.com/images/I/41Btx7WO1ZL._SY400_.jpg",
+      "title": "Meet Me at the Lighthouse: Poems",
+      "percentageRead": 0,
+      "authors": [
+        "Gioia, Dana:"
       ],
       "resourceType": "EBOOK_SAMPLE",
       "originType": "PURCHASE",
@@ -64,19 +309,6 @@
         "Saunders, George:"
       ],
       "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B079L54CG4",
-      "webReaderUrl": "https://read.amazon.com/?asin=B079L54CG4",
-      "productUrl": "https://m.media-amazon.com/images/I/41o1ThBXaQL._SY400_.jpg",
-      "title": "The League: How Five Rivals Created the NFL and Launched a Sports Empire",
-      "percentageRead": 0,
-      "authors": [
-        "Eisenberg, John:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
       "originType": "PURCHASE",
       "mangaOrComicAsin": false
     },
@@ -146,19 +378,6 @@
       "mangaOrComicAsin": false
     },
     {
-      "asin": "B00A58VDO4",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00A58VDO4",
-      "productUrl": "https://m.media-amazon.com/images/I/415wkPAg4GL._SY400_.jpg",
-      "title": "Seiobo There Below (Ndp; 1280)",
-      "percentageRead": 0,
-      "authors": [
-        "Krasznahorkai, László:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
       "asin": "B0B4F1MP7Y",
       "webReaderUrl": "https://read.amazon.com/?asin=B0B4F1MP7Y",
       "productUrl": "https://m.media-amazon.com/images/I/416UaXjTGUL._SY400_.jpg",
@@ -185,32 +404,6 @@
       "mangaOrComicAsin": false
     },
     {
-      "asin": "B0CV22P3TG",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0CV22P3TG",
-      "productUrl": "https://m.media-amazon.com/images/I/51Kfy-Id3XL._SY400_.jpg",
-      "title": "The Eagle and the Hart: The Tragedy of Richard II and Henry IV",
-      "percentageRead": 0,
-      "authors": [
-        "Castor, Helen:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B001TKA0VO",
-      "webReaderUrl": "https://read.amazon.com/?asin=B001TKA0VO",
-      "productUrl": "https://m.media-amazon.com/images/I/41e97FX3MAL._SY400_.jpg",
-      "title": "Sum: Forty Tales from the Afterlives",
-      "percentageRead": 0,
-      "authors": [
-        "Eagleman, David:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
       "asin": "B0C7VYHTPJ",
       "webReaderUrl": "https://read.amazon.com/?asin=B0C7VYHTPJ",
       "productUrl": "https://m.media-amazon.com/images/I/41VG+ol-EtL._SY400_.jpg",
@@ -220,19 +413,6 @@
         "Theroux, Paul:"
       ],
       "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0BQGD958K",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0BQGD958K",
-      "productUrl": "https://m.media-amazon.com/images/I/41Btx7WO1ZL._SY400_.jpg",
-      "title": "Meet Me at the Lighthouse: Poems",
-      "percentageRead": 0,
-      "authors": [
-        "Gioia, Dana:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
       "originType": "PURCHASE",
       "mangaOrComicAsin": false
     },
@@ -259,19 +439,6 @@
         "Bianchin, Helen:James, Julia:Porter, Jane:Kendrick, Sharon:Milburne, Melanie:Field, Sandra:Green, Abby:Hewitt, Kate:Cohen, Julie:Hardy, Kate:Cleary, Anna:Monroe, Lucy:"
       ],
       "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0D8VNGWKL",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0D8VNGWKL",
-      "productUrl": "https://m.media-amazon.com/images/I/41aGJzS2fDL._SY400_.jpg",
-      "title": "Believe: Why Everyone Should Be Religious",
-      "percentageRead": 0,
-      "authors": [
-        "Douthat, Ross:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
       "originType": "PURCHASE",
       "mangaOrComicAsin": false
     },
@@ -304,7 +471,7 @@
     {
       "asin": "B0D1P7X5RF",
       "webReaderUrl": "https://read.amazon.com/?asin=B0D1P7X5RF",
-      "productUrl": "https://m.media-amazon.com/images/I/41+9vv6OUsL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/410OgNbfSiL._SY400_.jpg",
       "title": "John & Paul: A Love Story in Songs",
       "percentageRead": 0,
       "authors": [
@@ -330,7 +497,7 @@
     {
       "asin": "B00ZOLKZ8W",
       "webReaderUrl": "https://read.amazon.com/?asin=B00ZOLKZ8W",
-      "productUrl": "https://m.media-amazon.com/images/I/41E0tLH-MuL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41sCdXFnZDL._SY400_.jpg",
       "title": "War Music: An Account of Homer's Iliad",
       "percentageRead": 0,
       "authors": [
@@ -484,169 +651,13 @@
       "mangaOrComicAsin": false
     },
     {
-      "asin": "B00E0Q2F5I",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00E0Q2F5I",
-      "productUrl": "https://m.media-amazon.com/images/I/61xrFkgmcdL._SY400_.jpg",
-      "title": "Marriage of Convenience Boxed Set (Favorite Romance Themes) (The Summit Authors Present Favorite Romance Themes Book 1)",
+      "asin": "B0D945Y5KT",
+      "webReaderUrl": "https://read.amazon.com/?asin=B0D945Y5KT",
+      "productUrl": "https://m.media-amazon.com/images/I/41mkqxAqVfL._SY400_.jpg",
+      "title": "Birds, Sex and Beauty: The Extraordinary Implications of Charles Darwin's Strangest Idea",
       "percentageRead": 0,
       "authors": [
-        "Arnold, Judith:Patricia Ryan:Patricia McLinn:Cynthia Wright:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00AWJ8CAO",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00AWJ8CAO",
-      "productUrl": "https://m.media-amazon.com/images/I/41wcEz-QYOL._SY400_.jpg",
-      "title": "One Hot Night",
-      "percentageRead": 0,
-      "authors": [
-        "Adams, Noelle:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0160LII74",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0160LII74",
-      "productUrl": "https://m.media-amazon.com/images/I/51f-w01aXGL._SY400_.jpg",
-      "title": "Sir Gawain and the Green Knight & Five “King Arthur” Bonus works: Le Morte d'Arthur, Idylls of the King, King Arthur and His Knights, Sir Gawain and the Green Knight, and A Connecticut Yankee in King",
-      "percentageRead": 0,
-      "authors": [
-        "Malory, Sir Thomas:Tennyson, Lord Alfred:Warren, Maude Radford:Knowles, Sir James:Twain, Mark:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B000OZ0O0C",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000OZ0O0C",
-      "productUrl": "https://m.media-amazon.com/images/I/41w3mQE-qtL._SY400_.jpg",
-      "title": "White Lies (Arcane Society Series Book 2)",
-      "percentageRead": 0,
-      "authors": [
-        "Krentz, Jayne Ann:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00DXXMGWQ",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00DXXMGWQ",
-      "productUrl": "https://m.media-amazon.com/images/I/51qFN69lAvL._SY400_.jpg",
-      "title": "Hans Christian Andersen: Complete Fairy Tales (Illustrated)",
-      "percentageRead": 0,
-      "authors": [
-        "Andersen, Hans Christian:Books, Maplewood:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00AA0VB8U",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00AA0VB8U",
-      "productUrl": "https://m.media-amazon.com/images/I/51vQsiCbYCL._SY400_.jpg",
-      "title": "Sweetly Contemporary Collection - Volume 1 (Sweetly Contemporary Romance Boxed Set)",
-      "percentageRead": 0,
-      "authors": [
-        "Blake, Jennifer:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B000UZQI74",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000UZQI74",
-      "productUrl": "https://m.media-amazon.com/images/I/51+lLnHclxL._SY400_.jpg",
-      "title": "Sizzle and Burn (Arcane Society Series Book 3)",
-      "percentageRead": 0,
-      "authors": [
-        "Krentz, Jayne Ann:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B000FC13JK",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000FC13JK",
-      "productUrl": "https://m.media-amazon.com/images/I/51YEooABXWL._SY400_.jpg",
-      "title": "A Rogue's Proposal (Cynster Book 4)",
-      "percentageRead": 0,
-      "authors": [
-        "Laurens, Stephanie:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B00895IVKE",
-      "webReaderUrl": "https://read.amazon.com/?asin=B00895IVKE",
-      "productUrl": "https://m.media-amazon.com/images/I/51WB+7VtBoL._SY400_.jpg",
-      "title": "The Bronte Sisters - The Complete Novels (Annotated) + Extras",
-      "percentageRead": 0,
-      "authors": [
-        "Bronte, Charlotte:Bronte, Anne:Bronte, Emily:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B0CJZYZK4T",
-      "webReaderUrl": "https://read.amazon.com/?asin=B0CJZYZK4T",
-      "productUrl": "https://m.media-amazon.com/images/I/51oso0EWGoL._SY400_.jpg",
-      "title": "The Great Gatsby",
-      "percentageRead": 0,
-      "authors": [
-        "Fitzergald, F. Scott:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B001NLL98C",
-      "webReaderUrl": "https://read.amazon.com/?asin=B001NLL98C",
-      "productUrl": "https://m.media-amazon.com/images/I/51o2mqQEb6L._SY400_.jpg",
-      "title": "Heart and Soul",
-      "percentageRead": 0,
-      "authors": [
-        "Binchy, Maeve:"
-      ],
-      "resourceType": "EBOOK",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
-      "asin": "B09R6SG3H7",
-      "webReaderUrl": "https://read.amazon.com/kindle-library/manga-wr/B09R6SG3H7?sample=true",
-      "productUrl": "https://m.media-amazon.com/images/I/516KXqD1MwL._SY400_.jpg",
-      "title": "Watership Down: The Graphic Novel",
-      "percentageRead": 0,
-      "authors": [
-        "Adams, Richard:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": true
-    },
-    {
-      "asin": "B000P6YMJY",
-      "webReaderUrl": "https://read.amazon.com/?asin=B000P6YMJY",
-      "productUrl": "https://m.media-amazon.com/images/I/51CshZRuUTL._SY400_.jpg",
-      "title": "The River Knows",
-      "percentageRead": 0,
-      "authors": [
-        "Quick, Amanda:"
+        "Ridley, Matt:"
       ],
       "resourceType": "EBOOK",
       "originType": "PURCHASE",
@@ -772,7 +783,7 @@
     {
       "asin": "B013JBH89M",
       "webReaderUrl": "https://read.amazon.com/?asin=B013JBH89M",
-      "productUrl": "https://m.media-amazon.com/images/I/41zc-jKybiL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41J2+16LwrL._SY400_.jpg",
       "title": "Pumpkinflowers: A Soldier's Story of a Forgotten War",
       "percentageRead": 0,
       "authors": [
@@ -824,7 +835,7 @@
     {
       "asin": "B017MSQQ6E",
       "webReaderUrl": "https://read.amazon.com/?asin=B017MSQQ6E",
-      "productUrl": "https://m.media-amazon.com/images/I/51IEdvmKaoL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51gdtth09YL._SY400_.jpg",
       "title": "Saveur: Soups and Stews",
       "percentageRead": 0,
       "authors": [
@@ -1121,19 +1132,6 @@
       "mangaOrComicAsin": false
     },
     {
-      "asin": "B006L8723I",
-      "webReaderUrl": "https://read.amazon.com/?asin=B006L8723I",
-      "productUrl": "https://m.media-amazon.com/images/I/51bWklIGxjL._SY400_.jpg",
-      "title": "Out of the Silent Planet: (Space Trilogy, Book One) (The Space Trilogy 1)",
-      "percentageRead": 0,
-      "authors": [
-        "Lewis, C. S.:"
-      ],
-      "resourceType": "EBOOK_SAMPLE",
-      "originType": "PURCHASE",
-      "mangaOrComicAsin": false
-    },
-    {
       "asin": "B0CJL65WG7",
       "webReaderUrl": "https://read.amazon.com/?asin=B0CJL65WG7",
       "productUrl": "https://m.media-amazon.com/images/I/51iz2-E1fxL._SY400_.jpg",
@@ -1162,7 +1160,7 @@
     {
       "asin": "B00CNEO9IU",
       "webReaderUrl": "https://read.amazon.com/?asin=B00CNEO9IU",
-      "productUrl": "https://m.media-amazon.com/images/I/51hMSboiVfL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51ancxaOFdL._SY400_.jpg",
       "title": "The Decameron",
       "percentageRead": 0,
       "authors": [
@@ -1565,7 +1563,7 @@
     {
       "asin": "B07NGQ8W9T",
       "webReaderUrl": "https://read.amazon.com/?asin=B07NGQ8W9T",
-      "productUrl": "https://m.media-amazon.com/images/I/51ccRV9uS0L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51og9AK6EiL._SY400_.jpg",
       "title": "The Ancient Guide to Modern Life",
       "percentageRead": 0,
       "authors": [
@@ -1981,7 +1979,7 @@
     {
       "asin": "B08FHBV4ZX",
       "webReaderUrl": "https://read.amazon.com/?asin=B08FHBV4ZX",
-      "productUrl": "https://m.media-amazon.com/images/I/51l-5bsaTlL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51xFIML-7lL._SY400_.jpg",
       "title": "Project Hail Mary: A Novel",
       "percentageRead": 0,
       "authors": [
@@ -2280,7 +2278,7 @@
     {
       "asin": "B096YQRQKK",
       "webReaderUrl": "https://read.amazon.com/?asin=B096YQRQKK",
-      "productUrl": "https://m.media-amazon.com/images/I/41tFWedDj8L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/411YL1guLnL._SY400_.jpg",
       "title": "Seneca: Fifty Letters of a Roman Stoic",
       "percentageRead": 0,
       "authors": [
@@ -2475,7 +2473,7 @@
     {
       "asin": "B007XA3KZW",
       "webReaderUrl": "https://read.amazon.com/?asin=B007XA3KZW",
-      "productUrl": "https://m.media-amazon.com/images/I/41Grio2lWXL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41RisvUV6ZL._SY400_.jpg",
       "title": "A Soldier of the Great War",
       "percentageRead": 0,
       "authors": [
@@ -2553,7 +2551,7 @@
     {
       "asin": "B07BJ3K8ZV",
       "webReaderUrl": "https://read.amazon.com/?asin=B07BJ3K8ZV",
-      "productUrl": "https://m.media-amazon.com/images/I/51-ltuJejXL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/410pA5k9sZL._SY400_.jpg",
       "title": "The Happy Empath's Workbook: Hands-On Activities, Worksheets and Strategies for Creating a Joyous and Full Life",
       "percentageRead": 0,
       "authors": [
@@ -2579,7 +2577,7 @@
     {
       "asin": "B01LW7L21K",
       "webReaderUrl": "https://read.amazon.com/?asin=B01LW7L21K",
-      "productUrl": "https://m.media-amazon.com/images/I/5121wFCiRpL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51GJpFHYFbL._SY400_.jpg",
       "title": "The Empath's Survival Guide: Life Strategies for Sensitive People",
       "percentageRead": 0,
       "authors": [
@@ -2943,7 +2941,7 @@
     {
       "asin": "B076MNDF42",
       "webReaderUrl": "https://read.amazon.com/?asin=B076MNDF42",
-      "productUrl": "https://m.media-amazon.com/images/I/51Z7tfn2APL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51p+BmZ1MxL._SY400_.jpg",
       "title": "Beyond Bullets: Creative Journaling Ideas to Customize Your Personal Productivity System",
       "percentageRead": 0,
       "authors": [
@@ -3281,7 +3279,7 @@
     {
       "asin": "B0756DZ4C1",
       "webReaderUrl": "https://read.amazon.com/?asin=B0756DZ4C1",
-      "productUrl": "https://m.media-amazon.com/images/I/513UxIWREEL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41c6D3pbztL._SY400_.jpg",
       "title": "The Tattooist of Auschwitz: A Novel",
       "percentageRead": 0,
       "authors": [
@@ -3684,7 +3682,7 @@
     {
       "asin": "B000RMT40I",
       "webReaderUrl": "https://read.amazon.com/?asin=B000RMT40I",
-      "productUrl": "https://m.media-amazon.com/images/I/413UnPgvWYL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41awvQ9FPnL._SY400_.jpg",
       "title": "Song of Solomon (Vintage International)",
       "percentageRead": 0,
       "authors": [
@@ -3866,7 +3864,7 @@
     {
       "asin": "B07D2B8MLT",
       "webReaderUrl": "https://read.amazon.com/?asin=B07D2B8MLT",
-      "productUrl": "https://m.media-amazon.com/images/I/41A3QvI6YlL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/416QXD2P4+L._SY400_.jpg",
       "title": "Big Business: A Love Letter to an American Anti-Hero",
       "percentageRead": 0,
       "authors": [
@@ -3944,7 +3942,7 @@
     {
       "asin": "B07H9HNDYL",
       "webReaderUrl": "https://read.amazon.com/?asin=B07H9HNDYL",
-      "productUrl": "https://m.media-amazon.com/images/I/51zqx8BvQtL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51KW5JoJVSL._SY400_.jpg",
       "title": "Beyond Weird: Why Everything You Thought You Knew about Quantum Physics Is Different",
       "percentageRead": 0,
       "authors": [
@@ -4035,7 +4033,7 @@
     {
       "asin": "B0796XP7PC",
       "webReaderUrl": "https://read.amazon.com/?asin=B0796XP7PC",
-      "productUrl": "https://m.media-amazon.com/images/I/41Gxvl2GuqL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/412qX+UhUUL._SY400_.jpg",
       "title": "Seven Types of Atheism",
       "percentageRead": 0,
       "authors": [
@@ -4139,7 +4137,7 @@
     {
       "asin": "B004ZM10OE",
       "webReaderUrl": "https://read.amazon.com/?asin=B004ZM10OE",
-      "productUrl": "https://m.media-amazon.com/images/I/31B53Xm9+WL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/31RJ+FxEGOL._SY400_.jpg",
       "title": "The Brothers Karamazov: A Novel in Four Parts With Epilogue",
       "percentageRead": 0,
       "authors": [
@@ -4932,7 +4930,7 @@
     {
       "asin": "B00SIWHOWO",
       "webReaderUrl": "https://read.amazon.com/?asin=B00SIWHOWO",
-      "productUrl": "https://m.media-amazon.com/images/I/619ki27SKoL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41yKcJnOr7L._SY400_.jpg",
       "title": "The Divine Comedy",
       "percentageRead": 0,
       "authors": [
@@ -5010,7 +5008,7 @@
     {
       "asin": "B06XX1GG9R",
       "webReaderUrl": "https://read.amazon.com/?asin=B06XX1GG9R",
-      "productUrl": "https://m.media-amazon.com/images/I/41sLfn68DdL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/31W8fQqG2SL._SY400_.jpg",
       "title": "The Soul of the First Amendment",
       "percentageRead": 0,
       "authors": [
@@ -5166,7 +5164,7 @@
     {
       "asin": "B01JGMCCCQ",
       "webReaderUrl": "https://read.amazon.com/?asin=B01JGMCCCQ",
-      "productUrl": "https://m.media-amazon.com/images/I/41+W89afwNL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41y3EuXdi8L._SY400_.jpg",
       "title": "The Complacent Class: The Self-Defeating Quest for the American Dream",
       "percentageRead": 0,
       "authors": [
@@ -5673,7 +5671,7 @@
     {
       "asin": "B00BYHMFBU",
       "webReaderUrl": "https://read.amazon.com/?asin=B00BYHMFBU",
-      "productUrl": "https://m.media-amazon.com/images/I/51VQj8H2QgL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51A6q8jvDtL._SY400_.jpg",
       "title": "My Dear Mother: Stormy Boastful, and Tender Letters By Distinguished Sons—From Dostoevsky to Elvis",
       "percentageRead": 0,
       "authors": [
@@ -5855,7 +5853,7 @@
     {
       "asin": "B015JJ8TFY",
       "webReaderUrl": "https://read.amazon.com/?asin=B015JJ8TFY",
-      "productUrl": "https://m.media-amazon.com/images/I/51GpnpXf3YL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41C8nq8gfPL._SY400_.jpg",
       "title": "When We Are No More: How Digital Memory Is Shaping Our Future",
       "percentageRead": 0,
       "authors": [
@@ -5972,7 +5970,7 @@
     {
       "asin": "B01D9WANCA",
       "webReaderUrl": "https://read.amazon.com/?asin=B01D9WANCA",
-      "productUrl": "https://m.media-amazon.com/images/I/51HJb-tKwWL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51Ypcs9ttUL._SY400_.jpg",
       "title": "Bourgeois Equality: How Ideas, Not Capital or Institutions, Enriched the World",
       "percentageRead": 0,
       "authors": [
@@ -6037,7 +6035,7 @@
     {
       "asin": "B014PF3PES",
       "webReaderUrl": "https://read.amazon.com/?asin=B014PF3PES",
-      "productUrl": "https://m.media-amazon.com/images/I/41EQrGblxKL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41K5auP50kL._SY400_.jpg",
       "title": "Unnaturally Delicious: How Science and Technology Are Serving Up Super Foods to Save the World",
       "percentageRead": 0,
       "authors": [
@@ -6167,7 +6165,7 @@
     {
       "asin": "B00L5QGBL0",
       "webReaderUrl": "https://read.amazon.com/?asin=B00L5QGBL0",
-      "productUrl": "https://m.media-amazon.com/images/I/61BTATAE6jL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51gsY-BAuIL._SY400_.jpg",
       "title": "Spam Nation: The Inside Story of Organized Cybercrime-from Global Epidemic to Your Front Door",
       "percentageRead": 0,
       "authors": [
@@ -6752,7 +6750,7 @@
     {
       "asin": "B00GRS0ZY0",
       "webReaderUrl": "https://read.amazon.com/?asin=B00GRS0ZY0",
-      "productUrl": "https://m.media-amazon.com/images/I/51a6yQLyP1L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51B5MzbVXML._SY400_.jpg",
       "title": "Individualism and Economic Order",
       "percentageRead": 0,
       "authors": [
@@ -6804,7 +6802,7 @@
     {
       "asin": "B00KAEXM2Y",
       "webReaderUrl": "https://read.amazon.com/?asin=B00KAEXM2Y",
-      "productUrl": "https://m.media-amazon.com/images/I/51xCx1f4zsL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41DElQVgVcL._SY400_.jpg",
       "title": "And the Good News Is...: Lessons and Advice from the Bright Side",
       "percentageRead": 0,
       "authors": [
@@ -7116,7 +7114,7 @@
     {
       "asin": "B00UMBOAZI",
       "webReaderUrl": "https://read.amazon.com/?asin=B00UMBOAZI",
-      "productUrl": "https://m.media-amazon.com/images/I/51a5FIDT3bL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51n5PSuWvtL._SY400_.jpg",
       "title": "The Beginner's Guide to Kumihimo: Techniques, Patterns and Projects to Learn How to Braid",
       "percentageRead": 0,
       "authors": [
@@ -7285,7 +7283,7 @@
     {
       "asin": "B00LDR38LC",
       "webReaderUrl": "https://read.amazon.com/?asin=B00LDR38LC",
-      "productUrl": "https://m.media-amazon.com/images/I/41MdQHema-L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41lZbzPt-IL._SY400_.jpg",
       "title": "The Moral Arc: How Science and Reason Lead Humanity Toward Truth, Justice, and Freedom",
       "percentageRead": 0,
       "authors": [
@@ -7363,7 +7361,7 @@
     {
       "asin": "B005TJNJVO",
       "webReaderUrl": "https://read.amazon.com/?asin=B005TJNJVO",
-      "productUrl": "https://m.media-amazon.com/images/I/51whnj-LRPL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51N-E2zY8XL._SY400_.jpg",
       "title": "The End of the Alphabet: Poems",
       "percentageRead": 0,
       "authors": [
@@ -8403,7 +8401,7 @@
     {
       "asin": "B00LDR38V2",
       "webReaderUrl": "https://read.amazon.com/?asin=B00LDR38V2",
-      "productUrl": "https://m.media-amazon.com/images/I/41tjV+7p5BL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41GoMkhJGVL._SY400_.jpg",
       "title": "Overruled: The Long War for Control of the U.S. Supreme Court",
       "percentageRead": 0,
       "authors": [
@@ -8845,7 +8843,7 @@
     {
       "asin": "B0049B1VRW",
       "webReaderUrl": "https://read.amazon.com/?asin=B0049B1VRW",
-      "productUrl": "https://m.media-amazon.com/images/I/51i8IRlPj3L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51stU9jVx4L._SY400_.jpg",
       "title": "Big Bowl Noodles and Rice: Fresh Asian Cooking from the Renowned Restaurant",
       "percentageRead": 0,
       "authors": [
@@ -9729,7 +9727,7 @@
     {
       "asin": "B003BVJ8WQ",
       "webReaderUrl": "https://read.amazon.com/?asin=B003BVJ8WQ",
-      "productUrl": "https://m.media-amazon.com/images/I/514st+a4d6L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51FXGX3EQtL._SY400_.jpg",
       "title": "Wetware: A Computer in Every Living Cell",
       "percentageRead": 0,
       "authors": [
@@ -10041,7 +10039,7 @@
     {
       "asin": "B00E91QT4C",
       "webReaderUrl": "https://read.amazon.com/?asin=B00E91QT4C",
-      "productUrl": "https://m.media-amazon.com/images/I/51gsGhpfBaL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51tJ3BmNvoL._SY400_.jpg",
       "title": "Wings",
       "percentageRead": 0,
       "authors": [
@@ -11146,7 +11144,7 @@
     {
       "asin": "B00ET7PK46",
       "webReaderUrl": "https://read.amazon.com/?asin=B00ET7PK46",
-      "productUrl": "https://m.media-amazon.com/images/I/41A452YEdTL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41Q91T3c1SL._SY400_.jpg",
       "title": "The Baby Boom: How It Got That Way, And It Wasn't My Fault, And I'll Never Do It Again",
       "percentageRead": 0,
       "authors": [
@@ -12004,7 +12002,7 @@
     {
       "asin": "B009PXNALY",
       "webReaderUrl": "https://read.amazon.com/?asin=B009PXNALY",
-      "productUrl": "https://m.media-amazon.com/images/I/41XuJoKCMaL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51rW6bv0lWL._SY400_.jpg",
       "title": "The Ultimate Survival Tin (Survivor Series Book 1)",
       "percentageRead": 0,
       "authors": [
@@ -13564,7 +13562,7 @@
     {
       "asin": "B00495ZE58",
       "webReaderUrl": "https://read.amazon.com/?asin=B00495ZE58",
-      "productUrl": "https://m.media-amazon.com/images/I/41NquinbRhL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/516kI9-gtPL._SY400_.jpg",
       "title": "Confessions of an Improper Bride (A Donovan Novel Book 1)",
       "percentageRead": 0,
       "authors": [
@@ -13577,7 +13575,7 @@
     {
       "asin": "B004SQSMV6",
       "webReaderUrl": "https://read.amazon.com/?asin=B004SQSMV6",
-      "productUrl": "https://m.media-amazon.com/images/I/51QPFGysICL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/512SjJHY-HL._SY400_.jpg",
       "title": "Daughter of Time (The After Cilmeri Series Book 1)",
       "percentageRead": 0,
       "authors": [
@@ -13629,7 +13627,7 @@
     {
       "asin": "B0051GTA2C",
       "webReaderUrl": "https://read.amazon.com/?asin=B0051GTA2C",
-      "productUrl": "https://m.media-amazon.com/images/I/51-geys0KML._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51+1+w2+zJL._SY400_.jpg",
       "title": "The Executive's Decision (The Keller Family Series Book 1)",
       "percentageRead": 0,
       "authors": [
@@ -15137,7 +15135,7 @@
     {
       "asin": "B00APZQ1XU",
       "webReaderUrl": "https://read.amazon.com/?asin=B00APZQ1XU",
-      "productUrl": "https://m.media-amazon.com/images/I/61pMaaexxqL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51wwLZbAhcL._SY400_.jpg",
       "title": "One Zentangle a Day: A 6-Week Course in Creative Drawing for Relaxation, Inspiration, and Fun (One A Day)",
       "percentageRead": 0,
       "authors": [
@@ -15358,7 +15356,7 @@
     {
       "asin": "B0069OQIV6",
       "webReaderUrl": "https://read.amazon.com/?asin=B0069OQIV6",
-      "productUrl": "https://m.media-amazon.com/images/I/51SfztOAUTL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41hYlZi1cXL._SY400_.jpg",
       "title": "Snowed Under: A Christmas Story",
       "percentageRead": 0,
       "authors": [
@@ -15475,7 +15473,7 @@
     {
       "asin": "B004AYD55O",
       "webReaderUrl": "https://read.amazon.com/?asin=B004AYD55O",
-      "productUrl": "https://m.media-amazon.com/images/I/51E3p2DflOL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51oU5Ael0TL._SY400_.jpg",
       "title": "Christmas Under Western Skies: An Anthology (Love Inspired Historical)",
       "percentageRead": 0,
       "authors": [
@@ -15527,7 +15525,7 @@
     {
       "asin": "B0080K3NNS",
       "webReaderUrl": "https://read.amazon.com/?asin=B0080K3NNS",
-      "productUrl": "https://m.media-amazon.com/images/I/41eMipfTUaL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41TNUk0eXxL._SY400_.jpg",
       "title": "Free Market Revolution: How Ayn Rand's Ideas Can End Big Government",
       "percentageRead": 0,
       "authors": [
@@ -15657,7 +15655,7 @@
     {
       "asin": "B00762LXJC",
       "webReaderUrl": "https://read.amazon.com/?asin=B00762LXJC",
-      "productUrl": "https://m.media-amazon.com/images/I/41AERnoYryL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/4125CzxJRTL._SY400_.jpg",
       "title": "The Essential Oils Book: Creating Personal Blends for Mind & Body",
       "percentageRead": 0,
       "authors": [
@@ -16177,7 +16175,7 @@
     {
       "asin": "B00603PIVM",
       "webReaderUrl": "https://read.amazon.com/?asin=B00603PIVM",
-      "productUrl": "https://m.media-amazon.com/images/I/413c+OnZrrL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41yMpky1VkL._SY400_.jpg",
       "title": "James Madison and the Making of America",
       "percentageRead": 0,
       "authors": [
@@ -16916,7 +16914,7 @@
     {
       "asin": "B004H1TM1G",
       "webReaderUrl": "https://read.amazon.com/?asin=B004H1TM1G",
-      "productUrl": "https://m.media-amazon.com/images/I/4125cNf5KaL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41F+PjabiTL._SY400_.jpg",
       "title": "Reckless Endangerment: How Outsized Ambition, Greed, and Corruption Led to Economic Armageddon",
       "percentageRead": 0,
       "authors": [
@@ -17020,7 +17018,7 @@
     {
       "asin": "B004KKYX68",
       "webReaderUrl": "https://read.amazon.com/?asin=B004KKYX68",
-      "productUrl": "https://m.media-amazon.com/images/I/41RlHlFUVeL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41eBnlHo+KL._SY400_.jpg",
       "title": "Liberty Defined: 50 Essential Issues That Affect Our Freedom",
       "percentageRead": 0,
       "authors": [
@@ -17462,7 +17460,7 @@
     {
       "asin": "B003JBHW2Q",
       "webReaderUrl": "https://read.amazon.com/?asin=B003JBHW2Q",
-      "productUrl": "https://m.media-amazon.com/images/I/51UpZuTEa9L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/515gHypSr0L._SY400_.jpg",
       "title": "Wheelock's Latin: The Classic Introductory Latin Course, Based on Ancient Authors",
       "percentageRead": 0,
       "authors": [
@@ -18164,7 +18162,7 @@
     {
       "asin": "B001VLXMRK",
       "webReaderUrl": "https://read.amazon.com/?asin=B001VLXMRK",
-      "productUrl": "https://m.media-amazon.com/images/I/51oBcTiIj5L._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/51iIP613v7L._SY400_.jpg",
       "title": "A Season for Scandal: An Anthology",
       "percentageRead": 0,
       "authors": [
@@ -19029,7 +19027,7 @@
     {
       "asin": "B000FCK5YE",
       "webReaderUrl": "https://read.amazon.com/?asin=B000FCK5YE",
-      "productUrl": "https://m.media-amazon.com/images/I/41uyoAxneCL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/416SGVrvOJL._SY400_.jpg",
       "title": "1776",
       "percentageRead": 0,
       "authors": [
@@ -19275,7 +19273,7 @@
     {
       "asin": "B001EQ5216",
       "webReaderUrl": "https://read.amazon.com/?asin=B001EQ5216",
-      "productUrl": "https://m.media-amazon.com/images/I/51yeDgqvNXL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41ZcN3XXhhL._SY400_.jpg",
       "title": "Silent Cal's Almanack: The Homespun Wit and Wisdom of Vermont's Calvin Coolidge",
       "percentageRead": 0,
       "authors": [
@@ -20016,7 +20014,7 @@
     {
       "asin": "B000YZQ096",
       "webReaderUrl": "https://read.amazon.com/?asin=B000YZQ096",
-      "productUrl": "https://m.media-amazon.com/images/I/51-s8xgn0ML._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/516iYDVQgEL._SY400_.jpg",
       "title": "Writing for Your Life: A Guide and Companion to the Inner Worlds",
       "percentageRead": 0,
       "authors": [
@@ -20081,7 +20079,7 @@
     {
       "asin": "B000FC12LO",
       "webReaderUrl": "https://read.amazon.com/?asin=B000FC12LO",
-      "productUrl": "https://m.media-amazon.com/images/I/41KErKCzNjL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41Q6H5tlCHL._SY400_.jpg",
       "title": "Little Altars Everywhere: A Novel (The Ya-Ya Series Book 2)",
       "percentageRead": 0,
       "authors": [
@@ -20094,7 +20092,7 @@
     {
       "asin": "B000N0WTSS",
       "webReaderUrl": "https://read.amazon.com/?asin=B000N0WTSS",
-      "productUrl": "https://m.media-amazon.com/images/I/41hq3Lq9hhL._SY400_.jpg",
+      "productUrl": "https://m.media-amazon.com/images/I/41eqvzpDGHL._SY400_.jpg",
       "title": "Ya-Yas in Bloom: A Novel (The Ya-Ya Series Book 3)",
       "percentageRead": 0,
       "authors": [

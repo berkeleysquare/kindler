@@ -36,6 +36,12 @@ The downloader is based on a Gist from @usayamadx:
 
 https://gist.github.com/usayamadx/9c638d9b70bc714d6dd6043fcd54085f 
 
-# DEMO
-https://jkboxed.com/kindler/
+## Deploy to cloudflare
+```
+# cd kindler
+$ yarn deploy
+```
+
+## DEMO
+https://kindler.jkboxed.com
 
